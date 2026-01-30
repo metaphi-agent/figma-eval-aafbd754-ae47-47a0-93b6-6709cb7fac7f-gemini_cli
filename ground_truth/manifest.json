@@ -1,0 +1,7 @@
+{
+    "figma_file_key": "dmiEyrs6i2gpImH8X2vfij",
+    "total_frames": 1,
+    "frames": [
+        {"name": "Home", "node_id": "2:427", "gt_image": "Home.png", "target_route": "/"}
+    ]
+}
